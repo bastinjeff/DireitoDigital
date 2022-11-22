@@ -22,3 +22,7 @@ II - concessão de canais com finalidades exclusivamente educativas;
 
 III - reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessionários de canais comerciais.
 Fonte: https://www.planalto.gov.br/ccivil_03/leis/l9394.htm#:~:text=L9394&text=Estabelece%20as%20diretrizes%20e%20bases%20da%20educa%C3%A7%C3%A3o%20nacional.&text=Art.%201%C2%BA%20A%20educa%C3%A7%C3%A3o%20abrange,civil%20e%20nas%20manifesta%C3%A7%C3%B5es%20culturais.
+
+E-Government = Governo Eletrônico
+E-Government = Utilizar da tecnologia para levar serviços e informações a cidadãos e industrias.
+A ONU determina as fases de implementação de um E-Government em 5 etapas: Surgimento, Aprimoramento, interação, Transação, Conexão.
